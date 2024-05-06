@@ -18,3 +18,10 @@ invitations to send.
 This program will require you to incorporate everything we
 have learned so far.
 """
+fullist=''
+names = []
+x=int(input("Enter a Name\n"))
+for names in range(0,x):
+ print(n)
+if input ==fullist:
+ print(names)
